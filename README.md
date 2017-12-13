@@ -1,0 +1,2 @@
+# ESP32_NTP_WIFI_CLIENT_TIME_TO_SERIAL
+A sample ESP32 NTP WIFI CLIENT senting valid TIME and day as output to SERIAL
